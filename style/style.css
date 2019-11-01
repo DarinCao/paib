@@ -152,6 +152,7 @@ a:hover{
     box-sizing: border-box;
     width: 70%;
     padding-left: 250px;
+    padding-top: 250px;
 }
 
 .category:nth-child(2n){
